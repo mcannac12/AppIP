@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		493F9726257DEBDE007B4DB7 /* calculIp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493F9725257DEBDE007B4DB7 /* calculIp.swift */; };
 		49F10A12257DDBE300F6AA29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F10A11257DDBE300F6AA29 /* AppDelegate.swift */; };
 		49F10A14257DDBE300F6AA29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F10A13257DDBE300F6AA29 /* SceneDelegate.swift */; };
 		49F10A16257DDBE300F6AA29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F10A15257DDBE300F6AA29 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		493F9725257DEBDE007B4DB7 /* calculIp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculIp.swift; sourceTree = "<group>"; };
 		49F10A0E257DDBE300F6AA29 /* AppIP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppIP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F10A11257DDBE300F6AA29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49F10A13257DDBE300F6AA29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				49F10A1F257DDBE500F6AA29 /* LaunchScreen.storyboard */,
 				49F10A22257DDBE500F6AA29 /* Info.plist */,
 				49F10A1A257DDBE300F6AA29 /* AppIP.xcdatamodeld */,
+				493F9725257DEBDE007B4DB7 /* calculIp.swift */,
 			);
 			path = AppIP;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			files = (
 				49F10A1C257DDBE300F6AA29 /* AppIP.xcdatamodeld in Sources */,
 				49F10A16257DDBE300F6AA29 /* ViewController.swift in Sources */,
+				493F9726257DEBDE007B4DB7 /* calculIp.swift in Sources */,
 				49F10A12257DDBE300F6AA29 /* AppDelegate.swift in Sources */,
 				49F10A14257DDBE300F6AA29 /* SceneDelegate.swift in Sources */,
 			);
